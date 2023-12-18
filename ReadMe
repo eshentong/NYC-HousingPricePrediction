@@ -2,8 +2,8 @@ Hi there!
 
 Welcome to this project where my three teammates and I created a predictor for NYC housing prices. 
 Through the dataset from year 2016-2017, we used supervised models in shallow learning for optimized predictions. 
-Some models included Ridge Regression, K-Nearest Neighbor, Random Forest, and XGBoost. 
+Some models included `Ridge Regression`, `K-Nearest Neighbor`, `Random Forest`, and `XGBoost`. 
 We ended up seeing the best performance among the more complex tree-based models. 
 
 An end-to-end pipeline is built within the notebook for the most automated performance. 
-To see more, please read the notebook. 
+To see more, please read the ipynb notebook. 
