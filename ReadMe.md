@@ -19,7 +19,7 @@ To see more, please read the ipynb notebook.
 • pandas
 • sklearn
 • scikit-learn
-• xgboost
+
 
 
 
