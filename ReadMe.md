@@ -14,12 +14,12 @@ To see more, please read the ipynb notebook.
 <h3> Requirements</h3>
 • Python
 
-<h3> Packages Used</h3
-• numpy 
-• pandas
-• sklearn
-• scikit-learn
-
+<h3> Packages Used</h3>
+<p>• numpy </p>
+<p>• pandas</p>
+<p>• sklearn</p>
+<p>• scikit-learn</p>
+<p>• xgboost</p>
 
 
 
